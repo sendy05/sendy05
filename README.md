@@ -1,52 +1,50 @@
-<!-- Aesthetic Header -->
+<!-- Kawaii Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ov9k9AyzTi7lZ6s4A/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">✨ Sendy — Aesthetic Developer ✨</h1>
+<h1 align="center">🌸 Hi, I'm Sendy! (˘⌣˘)♡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26DOMQaE1lEzs3nBS/giphy.gif" width="120">
-</p>
-
----
-
-## 🌿 About Me
-Soft aesthetic developer yang suka:
-- UI minimalis & bersih  
-- Desain lembut dan smooth  
-- Next.js, TypeScript, Tailwind CSS  
-
----
-
-## 🎨 Aesthetic Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuas/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="130">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎀 About Me
+🌸 Developer dengan hati pastel  
+🌈 Suka desain kawaii & soft color  
+💻 Next.js, TypeScript, Tailwind CSS  
+
+---
+
+## 🍬 Cute Divider
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,php,laravel,mysql,postgres,git,figma" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧁 Kawaii Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendybroer&theme=transparent&hide_border=true" height="150" />
+  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,php,laravel,nodejs,mysql,git,figma" />
 </p>
 
 ---
 
-## 🍃 Footer Aesthetic
+## 🐾 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&hide_border=true&theme=transparent" height="150">
 </p>
 
-<p align="center">✨ stay soft. stay creative. ✨</p>
+---
+
+## 🌈 Pastel Footer
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="100%">
+</p>
+
+<p align="center">(｡•̀ᴗ-)✧  Thanks for visiting!  ✧(•̀ᴗ•｡)</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sendy_broer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KosongLima) 
