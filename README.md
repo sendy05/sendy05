@@ -21,10 +21,43 @@
 </p>
 ---
 
-## 🔗 Contact
+
+
+# 👋 Halo, Saya Sendy Broer
+Fullstack Developer — PHP | TypeScript | Next.js | MySQL
+
+## 🚀 Keahlian
+- Frontend: Next.js, React, Tailwind CSS
+- Backend: PHP, Node.js, MySQL
+- DevOps: CPanel, Linux Server, Git
+
+## 📂 Project Portfolio
+### 1. SIMPATDA (Migrasi PHP → Next.js)
+- Fitur: autentikasi, dashboard, transaksi pajak
+- Stack: Next.js, Tailwind, MySQL
+
+### 2. Website BPKPAD Tapsel
+- Stack: PHP, Bootstrap
+- Status: Live production
+
+### 3. Sistem Catatan Pengajuan Dana SIPD
+- Stack: PHP, MySQL
+
+### 4. SITARIDA, E-ORDER, SIMJKN, SIMBOK,SIMPATDA, SIMBADATAPSEL (PHP )
+- Fitur: autentikasi, dashboard, transaksi pajak
+- Stack:  MySQL
+
+### 5. JALAN MANTAP
+- Fitur: autentikasi, dashboard, transaksi pajak
+- Stack: Next.js, Tailwind, MySQL
+
+### 6. DASHBOARD IKU
+- Fitur: autentikasi, dashboard, transaksi pajak
+- Stack: Next.js, Tailwind, MySQL
+
+## 📬 Kontak
 - Email: *(sandiharahap7203@gmail.com)*
 - GitHub: **sendy05**
-- Portfolio: *(jika ada)*
 
 ---
 
