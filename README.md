@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Professional Summary
+## 📌 Profesi Summary
 - Fullstack Developer (Next.js, TypeScript, Node.js)
 - Fokus pada performance, security, scalability
 - Berpengalaman dalam aplikasi pemerintahan & enterprise
