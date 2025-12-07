@@ -1,78 +1,52 @@
-<!-- Banner GIF Minimalis -->
+<!-- Aesthetic Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNtdjd3MDd6Y2k3Nnk4emhnNHFmazV1Ymh6OXNiejNlbjB6ZzNpeyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohhwIUz23ATkH2Mty/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/3ov9k9AyzTi7lZ6s4A/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">Hi, I'm Sendy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">✨ Sendy — Aesthetic Developer ✨</h1>
 
----
-
-## 👋 Emoji Bergerak (Wave GIF)
 <p align="center">
-  <img src="https://media.giphy.com/media/LpDmTqU2p61lO/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/26DOMQaE1lEzs3nBS/giphy.gif" width="120">
 </p>
 
 ---
 
-## 🌊 Wave Animation (GIF)
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwY3pjd2liYXpxZGN2d2NhNnoweXRrNW50eXRpMHZoN3h3a3hodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nqZEk6tDl0ZzW/giphy.gif" width="100%">
-</p>
+## 🌿 About Me
+Soft aesthetic developer yang suka:
+- UI minimalis & bersih  
+- Desain lembut dan smooth  
+- Next.js, TypeScript, Tailwind CSS  
 
 ---
 
-## 🧩 Banner Custom GIF
+## 🎨 Aesthetic Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI2amdzMDVhbWQ1eDRwbjUxc3IwMHBhOXg1YjZqcTc0ZWhjMWFuMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xThuWu82QD3pj4wvEQ/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuas/giphy.gif" width="400">
 </p>
-
----
-
-## ✨ About Me
-- Minimalist & modern fullstack developer  
-- Fokus pada **Next.js, TypeScript, Tailwind CSS**  
-- Menyukai desain bersih & fungsional  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,php,laravel,mysql,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,php,laravel,mysql,postgres,git,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (GIF Divider)
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR0lS8rKXniF20c/giphy.gif" width="300">
-</p>
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sendybroer&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendybroer&theme=transparent&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 💻 Coding GIF Aesthetic
+## 🍃 Footer Aesthetic
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZrbTJ0Nm5xdTN1d2o5d3U2djlnd2Jsb3p3aW5sY3RkMzF5amFjZSZlcP12MV9naWZzX3NlYXJjaCZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="100%">
 </p>
 
----
-
-## 🌊 Wave Footer GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
-</p>
-
----
-
-## 📬 Contact
-- GitHub: **sendybroer**
-- Email: *(isi email kamu)*  
-
-<p align="center">✨ Minimal • Clean • Animated ✨</p>
+<p align="center">✨ stay soft. stay creative. ✨</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sendy_broer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KosongLima) 
