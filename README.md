@@ -5,10 +5,6 @@
 
 <h1 align="center">👔 Sendy — Fullstack Developer</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4W4w/giphy.gif" width="120">
-</p>
-
 ---
 
 ## 📌 Professional Summary
@@ -23,36 +19,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=next,ts,react,nodejs,php,laravel,mysql,postgres,git,docker,nginx,linux,figma" />
 </p>
-
----
-
-## 📈 Business-Class GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sendybroer&theme=transparent&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📊 Productivity & Work Aesthetic GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/xUySTwz5YH0NfM5hFe/giphy.gif" width="300">
-</p>
-
 ---
 
 ## 🔗 Contact
-- Email: *(isi email kamu)*
-- GitHub: **sendybroer**
+- Email: *(sandiharahap7203@gmail.com)*
+- GitHub: **sendy05**
 - Portfolio: *(jika ada)*
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPGtEIfsJp7dO3m/giphy.gif" width="100%">
-</p>
-
-<p align="center"><b>Professional. Clean. Reliable.</b></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sendy_broer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KosongLima) 
