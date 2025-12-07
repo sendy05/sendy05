@@ -1,73 +1,72 @@
-<!-- Banner Animasi -->
+<!-- Banner Minimalis Custom -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sendy;Fullstack+Developer;Clean+%7C+Minimalist+%7C+Modern" />
 </p>
 
-<h1 align="center">Hi, I'm Sendy! 👋</h1>
-
-<!-- Typing Animation -->
+<!-- Wave Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/wave.svg" width="100%" />
 </p>
+
+<!-- Emoji bergerak -->
+<h1 align="center">
+  Welcome to My GitHub <span>👋</span>
+</h1>
+
+<style>
+  h1 span {
+    display: inline-block;
+    animation: wave 2s infinite;
+  }
+
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    20% { transform: rotate(20deg); }
+    40% { transform: rotate(-20deg); }
+    60% { transform: rotate(20deg); }
+    80% { transform: rotate(-10deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
 
 ---
 
-## 🚀 About Me
-- 💻 Fullstack Web Developer  
-- 🌱 Sedang mendalami **Next.js, TypeScript, dan DevOps**  
-- ⚡ Suka ngoprek server, automasi, dan UI modern  
-- 🎯 Fokus membangun aplikasi cepat, aman, dan scalable  
+## ✨ About Me
+- Fullstack Developer dengan fokus pada **Next.js, TypeScript, dan UI minimalis**  
+- Menyukai desain bersih dan sistematis  
+- Tertarik pada server, automasi, dan efisiensi  
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=next,react,ts,js,html,css,tailwind" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,php,laravel" />
-</p>
-
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" />
-</p>
-
----
-
-## 🔥 GitHub Stats (Animasi)
+## 🛠️ Tech Stack (Minimalist Icons)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendybroer&theme=tokyonight" height="150" />
+  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,mysql,postgres,php,laravel,git,linux" />
 </p>
 
+---
+
+## 📊 GitHub Stats (Clean Mode)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendybroer&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sendybroer&theme=transparent&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🧩 Fun Animation
+## 🌊 Wave Footer Animation
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/mermaid.svg" width="100%" />
 </p>
 
 ---
 
-## 📫 Reach Me
-<p>
-  <a href="https://github.com/sendybroer">🔗 GitHub</a>  
-  <br>
-  <a href="mailto:sendybroer@example.com">📧 Email (ganti sesuai email kamu)</a>
-</p>
+## 📬 Contact
+- GitHub: **sendybroer**
+- Email: *(isi email kamu)*  
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center">Minimal. Clean. Modern.✨</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sendy_broer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KosongLima) 
