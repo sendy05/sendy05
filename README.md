@@ -57,7 +57,7 @@ Fullstack Developer — PHP | TypeScript | Next.js | MySQL
 
 ## 📬 Kontak
 - Email: *(sandiharahap7203@gmail.com)*
-- GitHub: **sendy05**
+- GitHub: **[sendy05](https://github.com/sendy05)**
 
 ---
 
