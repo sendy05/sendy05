@@ -1,50 +1,58 @@
-<!-- Kawaii Header -->
+<!-- Business Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/5xtDarqCp0eomZaFJW8/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">🌸 Hi, I'm Sendy! (˘⌣˘)♡</h1>
+<h1 align="center">👔 Sendy — Fullstack Developer</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="130">
-</p>
-
----
-
-## 🎀 About Me
-🌸 Developer dengan hati pastel  
-🌈 Suka desain kawaii & soft color  
-💻 Next.js, TypeScript, Tailwind CSS  
-
----
-
-## 🍬 Cute Divider
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350">
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4W4w/giphy.gif" width="120">
 </p>
 
 ---
 
-## 🧁 Kawaii Tech Stack
+## 📌 Professional Summary
+- Fullstack Developer (Next.js, TypeScript, Node.js)
+- Fokus pada performance, security, scalability
+- Berpengalaman dalam aplikasi pemerintahan & enterprise
+- Clean & efficient coding philosophy
+
+---
+
+## 💼 Skill Highlights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,php,laravel,nodejs,mysql,git,figma" />
+  <img src="https://skillicons.dev/icons?i=next,ts,react,nodejs,php,laravel,mysql,postgres,git,docker,nginx,linux,figma" />
 </p>
 
 ---
 
-## 🐾 GitHub Stats
+## 📈 Business-Class GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&hide_border=true&theme=transparent" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sendybroer&theme=transparent&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🌈 Pastel Footer
+## 📊 Productivity & Work Aesthetic GIF
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/xUySTwz5YH0NfM5hFe/giphy.gif" width="300">
 </p>
 
-<p align="center">(｡•̀ᴗ-)✧  Thanks for visiting!  ✧(•̀ᴗ•｡)</p>
+---
+
+## 🔗 Contact
+- Email: *(isi email kamu)*
+- GitHub: **sendybroer**
+- Portfolio: *(jika ada)*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26FPGtEIfsJp7dO3m/giphy.gif" width="100%">
+</p>
+
+<p align="center"><b>Professional. Clean. Reliable.</b></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sendy_broer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KosongLima) 
