@@ -1,61 +1,69 @@
-<!-- Banner Minimalis Custom -->
+<!-- Banner GIF Minimalis -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sendy;Fullstack+Developer;Clean+%7C+Minimalist+%7C+Modern" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNtdjd3MDd6Y2k3Nnk4emhnNHFmazV1Ymh6OXNiejNlbjB6ZzNpeyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohhwIUz23ATkH2Mty/giphy.gif" width="600" />
 </p>
 
-<!-- Wave Animation -->
+<h1 align="center">Hi, I'm Sendy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+---
+
+## 👋 Emoji Bergerak (Wave GIF)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/wave.svg" width="100%" />
+  <img src="https://media.giphy.com/media/LpDmTqU2p61lO/giphy.gif" width="120">
 </p>
 
-<!-- Emoji bergerak -->
-<h1 align="center">
-  Welcome to My GitHub <span>👋</span>
-</h1>
+---
 
-<style>
-  h1 span {
-    display: inline-block;
-    animation: wave 2s infinite;
-  }
+## 🌊 Wave Animation (GIF)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwY3pjd2liYXpxZGN2d2NhNnoweXRrNW50eXRpMHZoN3h3a3hodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nqZEk6tDl0ZzW/giphy.gif" width="100%">
+</p>
 
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    20% { transform: rotate(20deg); }
-    40% { transform: rotate(-20deg); }
-    60% { transform: rotate(20deg); }
-    80% { transform: rotate(-10deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
+---
+
+## 🧩 Banner Custom GIF
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI2amdzMDVhbWQ1eDRwbjUxc3IwMHBhOXg1YjZqcTc0ZWhjMWFuMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xThuWu82QD3pj4wvEQ/giphy.gif" width="500">
+</p>
 
 ---
 
 ## ✨ About Me
-- Fullstack Developer dengan fokus pada **Next.js, TypeScript, dan UI minimalis**  
-- Menyukai desain bersih dan sistematis  
-- Tertarik pada server, automasi, dan efisiensi  
+- Minimalist & modern fullstack developer  
+- Fokus pada **Next.js, TypeScript, Tailwind CSS**  
+- Menyukai desain bersih & fungsional  
 
 ---
 
-## 🛠️ Tech Stack (Minimalist Icons)
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,mysql,postgres,php,laravel,git,linux" />
+  <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,php,laravel,mysql,postgres,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Clean Mode)
+## 📊 GitHub Stats (GIF Divider)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://media.giphy.com/media/l3vR0lS8rKXniF20c/giphy.gif" width="300">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sendybroer&show_icons=true&theme=transparent&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sendybroer&theme=transparent&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🌊 Wave Footer Animation
+## 💻 Coding GIF Aesthetic
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/mermaid.svg" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZrbTJ0Nm5xdTN1d2o5d3U2djlnd2Jsb3p3aW5sY3RkMzF5amFjZSZlcP12MV9naWZzX3NlYXJjaCZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif" width="300">
+</p>
+
+---
+
+## 🌊 Wave Footer GIF
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
 </p>
 
 ---
@@ -64,9 +72,7 @@
 - GitHub: **sendybroer**
 - Email: *(isi email kamu)*  
 
----
-
-<p align="center">Minimal. Clean. Modern.✨</p>
+<p align="center">✨ Minimal • Clean • Animated ✨</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sendy_broer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KosongLima) 
